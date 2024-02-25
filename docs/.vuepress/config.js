@@ -1,6 +1,7 @@
 const moment = require('moment');
 
 module.exports = {
+    base: "/gptDocs/",
     title: "希望没有早八",
     description: "ChatGPT Plus,onlyfans,GPT4.0,虚拟信用卡",
     head: [
@@ -31,20 +32,12 @@ module.exports = {
       ],
       sidebar: {
         '/chatGPT/': [
-          '',     /* /foo/ */
-          'GPT3',  /* /foo/one.html */
-          'GPT4'   /* /foo/two.html */
+          '',     /* /chatGPT/ */
+          'GPT3',  /* /chatGPT/GPT3.html */
+          'GPT4'   /* /GPT4/GPT4.html */
         ],
-        '/bar/': [
-          '',      /* /bar/ */
-          'three', /* /bar/three.html */
-          'four'   /* /bar/four.html */
-        ],
-        // fallback
         '/': [
-          '',        /* / */
-          'contact', /* /contact.html */
-          'about'    /* /about.html */
+          ''        /* / */
         ]
       }
     }
