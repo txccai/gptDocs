@@ -3,8 +3,6 @@ home: true
 # heroImage: /hero.png
 heroText: 欢迎来到我的网站
 tagline: 这几天会尽快完善该网站
-actionText: 快速上手 →
-actionLink: /zh/guide/
 features:
 - title: WildCard
   details: 专注于为国内用户提供海外在线服务订阅
