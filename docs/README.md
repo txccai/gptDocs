@@ -14,5 +14,7 @@ features:
   details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
-
+::: tip
+如需代注册帐号或代充值Chatgpt Plus会员，请添加站长客服微信：a3148856044,备注gpt
+:::
 # Hello VuePress
