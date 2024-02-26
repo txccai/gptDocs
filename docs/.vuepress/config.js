@@ -9,7 +9,15 @@ module.exports = {
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['meta', {name: 'author', content: '希望没有早八'}],
         ['meta', {name: 'keywords',content: 'ChatGPT Plus,onlyfans,GPT4.0,虚拟信用卡,sora'}],
-        
+        ['script',{},`
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?3259f570c191ce305886120317046715";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+        `]
       ],
     plugins: [
         [
