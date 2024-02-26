@@ -36,7 +36,7 @@ module.exports = {
       sidebar: {
         '/chatGPT/': [
           '',     /* /chatGPT/ */
-          'GPT3',  /* /chatGPT/GPT3.html */
+          'GPT3.5',  /* /chatGPT/GPT3.html */
           'GPT4',   /* /GPT4/GPT4.html */
         ],
         '/': [
