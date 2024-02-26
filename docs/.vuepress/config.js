@@ -47,8 +47,8 @@ module.exports = {
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   {
-                    title: '3444444444444444444444444444444444444',
-                    path: '/chatGPT/GPT3'
+                    title: 'GPT3.5',
+                    path: '/chatGPT/GPT3.5'
                   },
                   {
                     title: 'Gpt4',
@@ -63,12 +63,8 @@ module.exports = {
             sidebarDepth: 1,    // 可选的, 默认值是 1
             children: [
               {
-                title: 'wc',
-                path: '/WildCard/GPT3'
-              },
-              {
-                title: 'wc2',
-                path: '/WildCard/GPT4'
+                title: 'WildCard虚拟卡是什么？WildCard平台可以干什么？它安全吗？',
+                path: '/WildCard/something-about-wildcard'
               }
             ]
       },
