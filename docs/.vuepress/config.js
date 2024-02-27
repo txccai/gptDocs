@@ -3,7 +3,7 @@ const moment = require('moment');
 module.exports = {
   base: "/gptDocs/",
   title: "希望没有早八",
-  description: "ChatGPT Plus,onlyfans,GPT4.0,虚拟信用卡,sora",
+  description: "ChatGPT Plus,GPT4.0,虚拟信用卡,wildcard 邀请码",
   theme: 'reco',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -59,8 +59,8 @@ module.exports = {
     sidebar: {
       '/chatGPT/': [
         '',     /* /chatGPT/ */
-        'GPT3.5',  /* /chatGPT/GPT3.html */
-        'GPT4',   /* /GPT4/GPT4.html */
+        'how-to-register-gpt',  /* /chatGPT/GPT3.html */
+        'how-to-buy-gpt'
       ],
       '/': [
         {
@@ -70,12 +70,12 @@ module.exports = {
           sidebarDepth: 1,    // 可选的, 默认值是 1
           children: [
             {
-              title: 'GPT3.5',
-              path: '/chatGPT/GPT3.5'
+              title: '【保姆级教程】2024年2月最新，怎么注册ChatGPT，新手小白都能学会',
+              path: '/chatGPT/how-to-register-gpt'
             },
             {
-              title: 'Gpt4',
-              path: '/chatGPT/GPT4'
+              title: 'ChatGPT 独享账号购买(普通号、plus号均有)，纯手工注册｜ ChatGPT 账号包售后',
+              path: '/chatGPT/how-to-buy-gpt'
             }
           ]
         },
