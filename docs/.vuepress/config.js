@@ -53,7 +53,7 @@ module.exports = {
     subSidebar: 'auto',
     nav: [
       { text: '首页', link: '/' },
-      { text: 'ChatGPT', link: '/chatGPT/' },
+      { text: 'ChatGPT获取及相关知识', link: '/chatGPT/' },
       { text: 'WildCard', link: 'https://bewildcard.com/i/GTP999' },
     ],
     sidebar: {
