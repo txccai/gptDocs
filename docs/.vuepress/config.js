@@ -8,7 +8,8 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'author', content: '希望没有早八' }],
-    ['meta', { name: "google-site-verification" , content: "ooLNaxcsJM_SuVj3sgKvIvcDBlipY78kMUE45KSt9U4" }],
+    ['meta', { name: "google-site-verification", content: "ooLNaxcsJM_SuVj3sgKvIvcDBlipY78kMUE45KSt9U4" }],
+    ['meta', { name: "msvalidate.01" , content='5F2DAB380E70B8ABA20F08AFEF085400' }],
     ['meta', { name: 'keywords', content: 'ChatGPT Plus,onlyfans,GPT4.0,虚拟信用卡,sora' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -27,17 +28,21 @@ module.exports = {
           s.parentNode.insertBefore(hm, s);
         })();
         `],
-        ['script', { src: '/index.js' }]
+    ['script', { src: '/index.js' }]
   ],
   plugins: [
     [
       '@vuepress/last-updated', {
         transformer: (timestamp) => {
           moment.locale("zh-cn")
-          return moment(timestamp).format('LLLL')
+          // return moment(timestamp).format('LLLL')
+          return new Date(timestamp).toLocaleDateString();
         }
       }
     ],
+    ['sitemap', {
+      hostname: 'https://txccai.github.io'
+    }],
     ['@vuepress/back-to-top'],
     ['@vuepress/pwa', {
       serviceWorker: true,
