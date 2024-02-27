@@ -9,7 +9,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'author', content: '希望没有早八' }],
     ['meta', { name: "google-site-verification", content: "ooLNaxcsJM_SuVj3sgKvIvcDBlipY78kMUE45KSt9U4" }],
-    ['meta', { name: "msvalidate.01" , content='5F2DAB380E70B8ABA20F08AFEF085400' }],
+    ['meta', { name: "msvalidate.01" , content: '5F2DAB380E70B8ABA20F08AFEF085400' }],
     ['meta', { name: 'keywords', content: 'ChatGPT Plus,onlyfans,GPT4.0,虚拟信用卡,sora' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
