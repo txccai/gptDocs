@@ -1,4 +1,11 @@
-# ChatGPT升级PLUS代充
+---
+title: ChatGPT升级PLUS代充
+categories:
+ - ChatGPT
+tags:
+ - ChatGPT
+ - ChatGPT Plus
+---
 
 ## 一、购买账号
 如果你现在还没有ChatGPT账号，需要购买普通账号或者购买 Plus 账号可以看下面网页：

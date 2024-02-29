@@ -1,9 +1,12 @@
 ---
 sidebar: auto
+title: 【保姆级教程】2024年2月最新，怎么注册ChatGPT，手把手教你新手小白都能学会
+categories:
+ - ChatGPT
+tags:
+ - ChatGPT
+ - ChatGPT Plus
 ---
-
-
-## 【保姆级教程】2024年2月最新，怎么注册ChatGPT，手把手教你新手小白都能学会
 
 近年Ai持续爆火，其中相关产品层出不穷，其中ChatGPT相信大家都听说过他的大名。因为不仅功能十分强大，关键账号还是永久免费使用。但是ChatGPT不支持国内网络和国内用户，很多新手小白朋友还是不清楚 ChatGPT 是什么，怎么才能拥有账号，本文将手把手告诉大家，怎么注册ChatGPT账号。
 

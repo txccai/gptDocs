@@ -1,4 +1,12 @@
-## ChatGPT 独享账号购买(普通号、plus号均有)，纯手工注册｜ ChatGPT 账号包售后
+---
+title: ChatGPT 独享账号购买(普通号、plus号均有)，纯手工注册｜ ChatGPT 账号包售后
+categories:
+ - ChatGPT
+tags:
+ - ChatGPT
+ - ChatGPT Plus
+---
+
 
 下图账号为独享账号，全新未启用，展示如下：
 
