@@ -6,7 +6,7 @@ module.exports = {
   description: "ChatGPT Plus,GPT4.0,虚拟信用卡,wildcard 邀请码",
   theme: 'reco',
   head: [
-    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1' }],
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'author', content: '希望没有早八' }],
     ['meta', { name: "google-site-verification", content: "ooLNaxcsJM_SuVj3sgKvIvcDBlipY78kMUE45KSt9U4" }],
@@ -59,9 +59,10 @@ module.exports = {
     }
   },
   themeConfig: {
+    smoothScroll: true,
+    evergreen: true,//浏览器兼容性
     logo: '/favicon.ico',
     lastUpdated: '更新时间',
-    sidebar: 'auto',
     subSidebar: 'auto',
     type: 'blog',
     // 作者
@@ -73,6 +74,7 @@ module.exports = {
     // 搜索设置
     search: true,
     searchMaxSuggestions: 20,
+    displayAllHeaders: true,
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
       { text: 'ChatGPT获取及相关知识', link: '/chatGPT/' },

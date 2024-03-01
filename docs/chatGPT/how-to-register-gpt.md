@@ -58,15 +58,17 @@ ChatGPT的官方网址是 [https://chat.openai.com](https://chat.openai.com)
 打开邮箱查收验证邮件并点击确认完成 sms-activate.org 账号认证
 登录sms-activate并且在右上角找到充值按钮，点击进行充值
 点击充值跳转后，往下滑找到支付宝，这里建议大家充值1美金就可以了（不够用再充）。
+
 充值好了以后回到首页搜索「open」关键字就可以找到 OpenAI 验证码的临时号码购买链接。
 在右侧激活区看到待使用的临时号码，将此号码复制到 OpenAI 的验证码接收区里面。
+
 在 OpenAI 的页面点击发送验证码，这样就可以在接码平台接收到验证码（有时候有一点慢需要耐心等待一下），将验证码填进去，这样就完成 ChatGPT 手机号验证了。
  
 这一步比较长，但是操起其实也不复杂，简单说就是通过接码平台收验证码完成验证。（ps：现在注册难度增加，就是可能会失败，比如号码失效，标记你的邮箱无法注册等）
  
 如果嫌麻烦的朋友可以直接移步[购买一个现成已经注册好的账号](https://txccai.github.io/gptDocs/chatGPT/how-to-buy-gpt.html)，可以改密码，私人账户，效果是一样的。
 
-也可以通过这个平台去[WildCard](https://bewildcard.com/i/GTP999)申请(ps:通过此链接可以优惠88折，输入邀请码GTP999也可以达到一样的优惠，剩下一杯奶茶钱，而小编会得到一点返佣，去喝一杯奶茶)，而且他的服务很多出来申请海外电话卡，也可以升级ChatGPT Plus(4.0),小编还是很推荐的。大家可以通过此链接 [https://txccai.github.io/gptDocs/WildCard/something-about-wildcard.html](https://txccai.github.io/gptDocs/WildCard/something-about-wildcard.html) 去了解一下，考虑是否适合你，后续我也会添加它的使用教程，在教程没出来是，大家可以添加我的微信 **a3148856044** 进行咨询，备注：虚拟卡
+也可以通过这个平台去[WildCard](https://bewildcard.com/i/GTP999)申请(ps:通过此链接可以优惠88折，输入邀请码GTP999也可以达到一样的优惠，剩下一杯奶茶钱，而小编会得到一点返佣，去喝一杯奶茶)，而且他的服务很多出来申请海外电话卡，也可以升级ChatGPT Plus(4.0),小编还是很推荐的。大家可以通过此链接 [WildCard虚拟信用卡是什么？它安全吗？](https://txccai.github.io/gptDocs/WildCard/something-about-wildcard.html) 去了解一下，考虑是否适合你。详细使用教程[WildCard一键升级ChatGPT4](https://txccai.github.io/gptDocs/WildCard/)
 
  
 下面是每一步的操作图，大家可以对照操作。
