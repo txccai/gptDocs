@@ -47,10 +47,10 @@ module.exports = {
     ['@vuepress/back-to-top'],
     ['@vuepress/pwa', {
       serviceWorker: true,
-      // updatePopup: {
-      //   message: "发现新内容可用",
-      //   buttonText: "刷新"
-      // }
+      updatePopup: {
+        message: "发现新内容可用",
+        buttonText: "刷新"
+      }
     }]
   ],
   locales: {
