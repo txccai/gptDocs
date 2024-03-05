@@ -61,4 +61,4 @@ WildCard一键升级ChatGPT Plus(4.0)顺序如下:
 
 最后恭喜你获得了自己的Plus账号，当然如果你觉得有点麻烦，但还是想要一个账号，可点击下面链接。
 
-[获取你的ChatGPT](http://localhost:8080/gptDocs/chatGPT/how-to-buy-gpt.html)
+[获取你的ChatGPT](https://txccai.github.io/gptDocs/chatGPT/how-to-buy-gpt.html)

@@ -100,7 +100,8 @@ module.exports = {
         '',
         'how-to-register-gpt',
         'how-to-buy-gpt',
-        'chatgpt'
+        'chatgpt',
+        'chatgpt-rival-claude'
       ],
       '/onlyfans/':[
         ''

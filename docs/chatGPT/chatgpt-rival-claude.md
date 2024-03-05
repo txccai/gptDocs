@@ -1,6 +1,5 @@
 ---
 title: Anthropic--openai强敌，Claude3正式发布，号称已经超越chatgpt4
-keyword:
 categories:
  - claude
 tags:
