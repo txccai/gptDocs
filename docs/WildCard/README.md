@@ -52,7 +52,6 @@ WildCard一键升级ChatGPT Plus(4.0)顺序如下:
 
 ![WildCard](../imags/WildCard/register-WildCard4.png)
 
-这里千万要注意，使用微软邮箱有极高**封号**危险，也就是使用outlook.com、hotmail、live.cn邮箱注册的gpt账号。
 
 最后按照平台的官方步骤，就可以订阅到ChatGPT Plus(4.0)了。
 ![WildCard](https://puputeju-tc.oss-cn-beijing.aliyuncs.com/xDmrkY6IcQnZzhl.png)
