@@ -22,14 +22,14 @@ ChatGPT持续爆火，ChatGPT4于2023年12月3日横空出世，但在国内拥�
 
 1.注册账号》》》2.选择卡段（推荐5347开头的卡）》》》3.申请卡（输入你喜欢的英文账号名，点击开通） 
 
-[fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT1.png)
+![fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT1.png)
 
 
 ## 二、设置CVC密码
 
 1.首页 》》》 卡中心 》》》 点击CVC安全码 》》》 设置CVC密码(推荐密码强度高一点) 
 
-[fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT2.png)
+![fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT2.png)
 
 ## 三、使用fomepay虚拟卡升级订阅GPT4
 
@@ -37,13 +37,13 @@ ChatGPT持续爆火，ChatGPT4于2023年12月3日横空出世，但在国内拥�
 
 登录号账号后，点击左上角的“ChatGPT 3.5”下拉框，选择升级到Plus。在对着所需填写的卡信息，将fomepay中相应的信息一一填写上去。
 
-[fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT3.png)
+![fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT3.png)
 
-[fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT4.png)
+![fomepay-upgradeGPT](../imags/ChatGPT/upgradePlus/fomepay-upgradeGPT4.png)
 
 点击订阅按钮，出现下图礼花背景页面，就代表你已经订阅升级成功。恭喜你学会了这个方法！！
 
-[upgradeGPT4-success](../imags/ChatGPT/upgradePlus/upgradeGPT4-success.png)
+![upgradeGPT4-success](../imags/ChatGPT/upgradePlus/upgradeGPT4-success.png)
 
 **开通成功了就赶紧去试试GPT4的功能吧**
 
