@@ -3,7 +3,7 @@ const moment = require('moment');
 module.exports = {
   base: "/gptDocs/",
   title: "ChatGPT相关知识学习指南",
-  description: "ChatGPT Plus,GPT4.0,虚拟信用卡,wildcard 邀请码",
+  description: "ChatGPT Plus升级教程,代充,最新ai信息分享",
   theme: 'reco',
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1' }],
@@ -119,12 +119,12 @@ module.exports = {
     },
    //友情链接
     friendLink: [
-      // {
-      //   title: '午后南杂',
-      //   desc: 'Enjoy when you can, and endure when you must.',
-      //   email: '1156743527@qq.com',
-      //   link: 'https://www.recoluan.com'
-      // }
+      {
+        title: 'ChatGPT中国站',
+        desc: '分享人工智能和海外APP的最新资讯和使用教程',
+        link: 'https://chatgptchina.github.io',
+        logo: 'https://groot-1253585616.cos.ap-shanghai.myqcloud.com/md/avatar.png'
+      }
     ]
 
   }
