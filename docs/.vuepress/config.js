@@ -92,7 +92,19 @@ module.exports = {
       // autoCreateIssue: true // 自动创建 Issue
     },
     sidebar: {
-      
+      '/WildCard/': [
+        '',     /* /WildCard/ */
+        'something-about-wildcard',  
+      ],
+      '/chatGPT/':[
+        '',
+        'how-to-register-gpt',
+        'how-to-buy-gpt',
+        'chatgpt'
+      ],
+      '/onlyfans/':[
+        ''
+      ]
     },
     // 博客设置
     blogConfig: {
