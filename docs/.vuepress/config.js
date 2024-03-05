@@ -42,7 +42,9 @@ module.exports = {
       }
     ],
     ['sitemap', {
-      hostname: 'https://txccai.github.io'
+      hostname: 'https://txccai.github.io',
+      // 排除无实际内容的页面
+      exclude: ["/404.html"]
     }],
     ['@vuepress/back-to-top'],
     ['@vuepress/pwa', {
@@ -51,7 +53,8 @@ module.exports = {
         message: "发现新内容可用",
         buttonText: "刷新"
       }
-    }]
+    }],
+    ['vuepress-plugin-baidu-autopush']
   ],
   locales: {
     '/': {

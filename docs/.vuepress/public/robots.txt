@@ -1,0 +1,3 @@
+Sitemap: https://txccai.github.io/gptDocs/sitemap.xml
+
+User-agent: *

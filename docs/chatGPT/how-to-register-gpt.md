@@ -30,13 +30,13 @@ ChatGPT的官方网址是 [https://chat.openai.com](https://chat.openai.com)
 
 为了大家更好的操作，下面将放出每一个步骤的图片，大家可以对照着图片对着自己的页面进行操作
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-1.webp)
+![ChatGPT](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-1.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-2.webp)
+![ChatGPT](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-2.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-3.webp)
+![ChatGPT](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-3.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-4.webp)
+![ChatGPT](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-4.webp)
 
 
 
@@ -75,19 +75,23 @@ ChatGPT的官方网址是 [https://chat.openai.com](https://chat.openai.com)
 
 打开邮箱找到验证邮件
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-6.webp)
+![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-6.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-7.webp)
+![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-7.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-9.webp)
+![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-9.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-10.webp)
+<!-- ![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-10.webp) -->
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-11.webp)
+![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-11.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-12.webp)
+![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-12.webp)
 
-![An image](https://chatgptzhanghao.com/wp-content/uploads/2023/06/sms-receive-screenshot.png)
+
+![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/02/how-to-register-chatgpt-5-e1676626369534.webp)
+
+
+![sms-activate](https://chatgptzhanghao.com/wp-content/uploads/2023/06/sms-receive-screenshot.png)
 
 历经千辛万苦，我们终于可以开始使用 ChatGPT 啦，恭喜！
 
