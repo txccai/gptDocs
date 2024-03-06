@@ -54,7 +54,29 @@ module.exports = {
         buttonText: "刷新"
       }
     }],
-    ['vuepress-plugin-baidu-autopush']
+    ['vuepress-plugin-baidu-autopush'],
+    ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
+      width: '300px', // 默认 260px
+      title: '消息提示',
+      body: [
+        {
+          type: 'title',
+          content: '如果需要购买、代充GPT3.5或4账号、或有任何疑惑,都可以直接添加站长私人微信咨询哦',
+          style: 'text-aligin: center;'
+        },
+        {
+          type: 'image',
+          src: '/gptDocs/assets/img/wechat.2a01d179.jpg'
+        }
+      ],
+      // footer: [
+      //   {
+      //     type: 'button',
+      //     text: '打赏',
+      //     link: '/donate'
+      //   } 
+      // ]
+    }]
   ],
   locales: {
     '/': {
