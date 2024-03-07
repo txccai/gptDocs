@@ -48,11 +48,7 @@ module.exports = {
     }],
     ['@vuepress/back-to-top'],
     ['@vuepress/pwa', {
-      serviceWorker: true,
-      updatePopup: {
-        message: "发现新内容可用",
-        buttonText: "刷新"
-      }
+      serviceWorker: true
     }],
     ['vuepress-plugin-baidu-autopush'],
     ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
@@ -120,6 +116,7 @@ module.exports = {
       '/WildCard/': [
         '',     /* /WildCard/ */
         'something-about-wildcard',
+        'wildcard-subscribe-midjourney'
       ],
       '/chatGPT/': [
         '',
