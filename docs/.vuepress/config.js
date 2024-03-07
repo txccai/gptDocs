@@ -10,7 +10,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'author', content: '希望没有早八' }],
     ['meta', { name: "google-site-verification", content: "ooLNaxcsJM_SuVj3sgKvIvcDBlipY78kMUE45KSt9U4" }],
-    ['meta', { name: "msvalidate.01" , content: '5F2DAB380E70B8ABA20F08AFEF085400' }],
+    ['meta', { name: "msvalidate.01", content: '5F2DAB380E70B8ABA20F08AFEF085400' }],
     ['meta', { name: 'keywords', content: 'ChatGPT Plus,onlyfans,GPT4.0,虚拟信用卡,sora' }],
     ['link', { rel: 'manifest', href: '/manifest.json' }],
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -76,6 +76,9 @@ module.exports = {
       //     link: '/donate'
       //   } 
       // ]
+    }],
+    ['@vuepress-reco/vuepress-plugin-pagation', {
+      perPage: 7  // 每页展示条数
     }]
   ],
   locales: {
@@ -116,16 +119,16 @@ module.exports = {
     sidebar: {
       '/WildCard/': [
         '',     /* /WildCard/ */
-        'something-about-wildcard',  
+        'something-about-wildcard',
       ],
-      '/chatGPT/':[
+      '/chatGPT/': [
         '',
         'how-to-register-gpt',
         'how-to-buy-gpt',
         'chatgpt',
         'chatgpt-rival-claude'
       ],
-      '/onlyfans/':[
+      '/onlyfans/': [
         ''
       ]
     },
@@ -140,7 +143,7 @@ module.exports = {
         text: '标签' // 默认 “标签”
       }
     },
-   //友情链接
+    //友情链接
     friendLink: [
       {
         title: 'ChatGPT中国站',
