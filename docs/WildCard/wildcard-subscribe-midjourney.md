@@ -78,7 +78,7 @@ midjourney的订阅需要绑定国外的信用卡，原来还可以支付宝支�
 
 登录 Discord 成功后，就可以登录 Midjourney 进行订阅了。在浏览器的地址栏输入 https://www.midjourney.com/login/ 
 在弹出的 Discord 页面点击授权，就可以登录 Midjourney 了。
-[Discord授权Midjourney](https://downloads.intercomcdn.com/i/o/774755950/5d248224c4d07b6a4dfaaebf/%E6%88%AA%E5%B1%8F2023-06-30+11.50.27.png)
+![Discord授权Midjourney](https://downloads.intercomcdn.com/i/o/774755950/5d248224c4d07b6a4dfaaebf/%E6%88%AA%E5%B1%8F2023-06-30+11.50.27.png)
 
 点击左边栏的 「个人头像」Manage Subscription，即可选择套餐进行订阅
 
