@@ -1,5 +1,5 @@
 ---
-title:快速简单解决chatgpt信息发不出的问题
+title: 快速简单解决chatgpt信息发不出的问题
 categories:
  - ChatGPT
 tags:
