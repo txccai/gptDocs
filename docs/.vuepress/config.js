@@ -123,7 +123,8 @@ module.exports = {
         'how-to-register-gpt',
         'how-to-buy-gpt',
         'chatgpt',
-        'chatgpt-rival-claude'
+        'chatgpt-rival-claude',
+        'chatgpt5'
       ],
       '/onlyfans/': [
         ''
@@ -147,6 +148,23 @@ module.exports = {
         desc: '分享人工智能和海外APP的最新资讯和使用教程',
         link: 'https://chatgptchina.github.io',
         logo: 'https://groot-1253585616.cos.ap-shanghai.myqcloud.com/md/avatar.png'
+      },
+      {
+        title: '求索AI',
+        desc: 'ChatGPT4.0升级、MidJourney、OnlyFans订阅指南、AI最新资讯',
+        link: 'https://www.gpt-zhinan.com/',
+        logo: 'https://www.gpt-zhinan.com/'
+      },
+      {
+        title: '多福的岛屿_MoreAI',
+        desc: 'ChatGPT4.0升级、MidJourney教程、OnlyFans订阅、Sora资讯',
+        link: 'https://www.dofoisland.com/',
+      },
+      {
+        title: 'VAQ的博客',
+        desc: '提供ChatGPT账号、计算机网络及编程相关干货分享',
+        link: 'https://vaq86.cn',
+        logo: 'https://vaq86.cn/avatar.png'
       }
     ]
 
